@@ -24,7 +24,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣤⣤⠴⠟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠤⠀⠀⠀⠀⠀⢩⠇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-# 🚀 Sobre mim
-Analista de Sistemas na Prefeitura de Monte Santo de Minas
+---
+# Analista de Sistemas 
+## Atualmente: Prefeitura de Monte Santo de Minas
 ## 💻 Sócio fundador da T! SOS Sistemas
 ## 📍 Guaxupé, Minas Gerais - Brasi
